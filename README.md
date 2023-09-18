@@ -1,8 +1,4 @@
 ### Hi there, I'm Lamine 👋
-
-<!--
-**ne18070/ne18070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![GitHub followers](https://img.shields.io/github/followers/ne18070?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
