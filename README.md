@@ -14,16 +14,6 @@ I'm a Fullstack Web Developer based in Japan. I'm passionate about creating web 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a coffee enthusiast ☕
 
-## Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-- 🚀 HTML, CSS, JavaScript
-- 🌐 React, Node.js, Express, Fastapi, Laravel
-- 💻 MongoDB, SQL
-- 🎨 Bootstrap, Tailwind CSS
-- Aws, Azure, Gcp
-
 ## Languages and Tools
 
 | ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=333333) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
